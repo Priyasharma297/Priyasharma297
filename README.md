@@ -70,3 +70,11 @@
 ## 💻 Beyond the Screen
 
 > Outside of coding, I have a passion for crafting and hand-drawn design. It’s where my creativity finds a different form — one that inspires the detail and care I bring into every project I build.
+
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Priyasharma297/Priyasharma297/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
